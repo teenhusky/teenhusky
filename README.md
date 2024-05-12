@@ -1,6 +1,6 @@
 # Andrew Malovany (Андрій Мальований)
 ### Short Biography
-Hi! 👋 I am Andrew Malyovany, a resident of Ukraine and a devoted [Jehovah's Witness](https://www.jw.org/en/library/videos/intros-for-the-ministry/jehovahs-witnesses-who-are-we-intro/). 🌍 I'm passionate about music (to the extent that I can drown in it 🎵 - but that's a joke, of course!) and I adore dogs. 🐶 I may have sociophobia or Asperger's Syndrome so I have a hard time socializing, but come on, it doesn't matter.
+Hi! 👋 I am Andrew Malyovany, a resident of Ukraine and a devoted [Jehovah's Witness](https://www.jw.org/en/library/videos/intros-for-the-ministry/jehovahs-witnesses-who-are-we-intro/). 🌍 I'm passionate about music (to the extent that I can drown in it 🎵 - but that's a joke, of course!) and I adore dogs. 🐶 I may have social phobia or Asperger's Syndrome so I have a hard time socializing, but come on, it doesn't matter.
 
 From the age of 12 or 13 I started my journey into programming, **before** it became part of the curriculum at school. 🖥️ I first tried my hand at game-dev, then design, then web development, but nothing really caught on like Python. 🐍
 
